@@ -180,3 +180,5 @@ if (box_Size_X>box_Size_Y) {
 } else {
 	translate([box_Size_X+5, 0, 0]) lid();	
 }
+
+// based on: https://www.thingiverse.com/thing:1680291 V1.1 by Chris Schneider (mcseven), 2016
